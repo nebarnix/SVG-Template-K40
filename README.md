@@ -30,5 +30,5 @@ Open K40 whisperer. Load work.svg
 Open the namer maker goer (you'll need autohotkeys installed)
 ![alt text](https://github.com/nebarnix/SVG-Template-K40/blob/master/NamerMakerGoer.PNG?raw=true "Template")
 
-Press the GO button and magic will happen. Keep doing this until you have millions of pencils and your laser is but a pile of dust. 
+Press the GO button and magic will happen. Keep doing this until you have millions of pencils and your laser is but a pile of dust. (I commented out the code to press the raster engrave button because of safety concerns. The user will have to manually press the raster engrade button)
 ![alt text](https://github.com/nebarnix/SVG-Template-K40/blob/master/K40_after.PNG?raw=true "Template")
