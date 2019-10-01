@@ -14,7 +14,7 @@ Open work.svg in K40 whisperer
 
 Run this app
 
-Win
+Win (repeatedly)
 
 # Image WalkDown
 Make a template in inkscape using $1 thru $5. Feel free to use this same template to actually cut your jig for more better aligningedness.
