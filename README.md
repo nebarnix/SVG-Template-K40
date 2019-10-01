@@ -18,7 +18,7 @@ Win
 
 # Image WalkDown
 Make a template in inkscape using $1 thru $5. Feel free to use this same template to actually cut your jig for more better aligningedness.
-The page size sets the laserable area. Do not jog the laser before you cut (instead, move things on your template to change the cutting locations). It helps to make the page size the same size as the laserable area of your laser, but it is referenced to the top left corner, so that is not strictly neccesary. Make sure your jig is referenced to one or more machine datums (jam the template into a freakin corner so you can always put it back exactly between jobs)
+The page size sets the laserable area. Do not jog the laser before you cut (instead, move things on your template to change the cutting locations). It helps to make the page size the same size as the laserable area of your laser, but it is referenced to the top left corner, so that is not strictly neccesary. Make sure your jig is referenced to one or more machine datums (jam the jig into a freakin corner so you can always put it back exactly between jobs)
 ![alt text](https://github.com/nebarnix/SVG-Template-K40/blob/master/Template.PNG?raw=true "Template")
 
 Save to temmplate.svg and work.svg. Now close inkscape. (or don't? I don't really care)
