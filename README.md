@@ -17,10 +17,10 @@ Run this app
 Win
 
 # Image WalkDown
-Make a template in inkscape using $1 thru $5. Feel free to use this exact template to actually cut your jig.
+Make a template in inkscape using $1 thru $5. Feel free to use this same template to actually cut your jig for more better aligningedness.
 ![alt text](https://github.com/nebarnix/SVG-Template-K40/blob/master/Template.PNG?raw=true "Template")
 
-Save to temmplate.svg and work.svg. Now close inkscape. 
+Save to temmplate.svg and work.svg. Now close inkscape. (or don't? I don't really care)
 
 Open K40 whisperer. Load work.svg
 ![alt text](https://github.com/nebarnix/SVG-Template-K40/blob/master/K40_before.PNG?raw=true "Template")
